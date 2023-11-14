@@ -1,0 +1,28 @@
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran_Filkom_Day.Pendaftaran.resources
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran_Filkom_Day.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\Pendaftaran Filkom Day.exe.config
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\Pendaftaran Filkom Day.exe
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\Pendaftaran Filkom Day.pdb
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.exe
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.pdb
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran_Filkom_Day.Login.resources
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran_Filkom_Day.PendaftaranDataOnly.resources
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.exe.config
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran Filkom Day.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\ContohProject.Form1.resources
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran_Filkom_Day.Forms.FormDPendaftaran.resources
+C:\Users\ASUS\source\repos\Pendaftaran Filkom Day\Pendaftaran Filkom Day\obj\Debug\Pendaftaran_Filkom_Day.Forms.FormPF.resources
